@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-transform: capitalize;
+    font-weight: bold;
+    text-decoration-line: underline;
+    text-decoration-color: blue;
+}

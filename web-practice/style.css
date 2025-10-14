@@ -1,0 +1,12 @@
+.navbar {
+    background: #02B0F0;
+    margin: 0;
+}
+
+.nav-item {
+    cursor: pointer;
+}
+
+.nav-item:hover {
+    background: #fff;
+}
